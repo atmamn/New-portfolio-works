@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="dom-manipulation.css">
+	</head>
+	<body>
+		<script src="dom-manipulation.js"></script>
+	</body>
+</html>
